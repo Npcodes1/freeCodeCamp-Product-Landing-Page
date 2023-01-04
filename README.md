@@ -1,5 +1,10 @@
 # freeCodeCamp-Product-Landing-Page
-Build a Product Landing Page
+
+The objective for this project was to build a product landing page. I decided on Mielle Organics. I love their natural hair products so I decided to dedicate my page to my favorite curl wrangling brand in order to get more practice and have an excuse to be looking at products to buy on their website 😁. 
+
+
+
+## Build a Product Landing Page
 Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
 
 User Stories:
